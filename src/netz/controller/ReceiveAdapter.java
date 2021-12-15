@@ -14,7 +14,7 @@ import netz.view.ChatView;
 
 /**
  *
- * @author Danie
+ * @author 143sc
  */
 public class ReceiveAdapter implements Flow.Subscriber<String> //war Integer/Werte aber wir wollen doch nur Strings übermitteln
 {

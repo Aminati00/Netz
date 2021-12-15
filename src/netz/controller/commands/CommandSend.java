@@ -11,7 +11,7 @@ import netz.view.ChatView;
 
 /**
  *
- * @author Danie
+ * @author 143sc
  */
 public class CommandSend implements CommandInterface
 {

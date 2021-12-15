@@ -10,7 +10,7 @@ import netz.view.ChatView;
 
 /**
  *
- * @author Danie
+ * @author 143sc
  */
 public class CommandConnect implements CommandInterface
 {

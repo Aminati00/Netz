@@ -24,7 +24,7 @@ import netz.util.OhmLogger;
 
 /**
  *
- * @author Danie
+ * @author 143sc
  */
 public class Transmitter implements Runnable
 {
